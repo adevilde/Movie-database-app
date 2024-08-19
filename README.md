@@ -5,6 +5,8 @@ This Python application allows users to interact with a movie database.
 Users can search for movies, actors, and more. 
 The application provides various search functionalities and displays detailed information about movies and actors.
 
+![Demo of the App](gif_streamlit_imdb_app.gif)
+
 ### Prerequisites:
 - Python 3.8/3.9/3.10/3.11/3.12
 
@@ -33,7 +35,7 @@ The application provides various search functionalities and displays detailed in
 
 2. In the terminal write the following command : 
   ```bash
-  streamlit run imdb-app
+  streamlit run imdb-app.py
   ```
 
 3. Above step should open an application in the user's browser. Otherwise, click on the localhost url given in the terminal.
