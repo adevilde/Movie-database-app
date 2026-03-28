@@ -30,7 +30,7 @@ The application provides various search functionalities and displays detailed in
   ```bash
   git clone https://github.com/adevilde/Movie-database-app.git
   
-  cd twitter-climate-change-sentiment
+  cd Movie-database-app
   ```
 
 2. In the terminal write the following command : 
